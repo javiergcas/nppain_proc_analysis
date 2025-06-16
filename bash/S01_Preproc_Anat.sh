@@ -51,4 +51,5 @@ sswarper2 -input ${SBJ}_Anat+orig               \
           -mask_ss ${SBJ}_Anat_FBmask+orig      \
           -base MNI152_2009_template_SSW.nii.gz \
           -subid ${SBJ}                         \
-          -odir ${ANAT_DATA_DIR} 
+          -odir ${ANAT_DATA_DIR}
+gzip *.nii
