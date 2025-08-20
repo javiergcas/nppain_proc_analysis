@@ -1,10 +1,6 @@
 .DS_Store
 ._.DS_Store
 bash/S02_Afni_Preproc/
-bash/SBJ03_DICOM2NIFTI.sh
-bash/SBJ05_DICOM2NIFTI.sh
-bash/SBJ06_Day1_DICOM2Nifti.sh
-bash/SBJ06_Day2_DICOM2Nifti.sh
-bash/prior_s02s/
-bash/sbj03_copy_commands.sh
-bash/single_echo/
+bash/X_prior_s02s/
+bash/X_single_echo/
+bash/X_older_copy_scripts/
