@@ -11,7 +11,7 @@
 export OMP_NUM_THREADS=32
 set -e
 
-PRJDIR='/data/SFIMJGC/2024_Misha_Pain'
+PRJDIR='/data/Brain_2025/pain_study_01/'
 PRCS_DATA_DIR=`echo ${PRJDIR}/prcs_data`
 
 SBJ_DIR=`echo ${PRCS_DATA_DIR}/${SBJ}`

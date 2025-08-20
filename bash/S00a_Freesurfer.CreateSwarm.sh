@@ -6,7 +6,7 @@
 
 set -e
 
-PRJ_DIR='/data/SFIMJGC/2024_Misha_Pain'
+PRJ_DIR='/data/Brain_2025/pain_study_01'
 SUBJECTS_DIR=`echo ${PRJ_DIR}/freesurfer/`
 ORIG_DATA_DIR=`echo ${PRJ_DIR}/orig_data`
 PRCS_DATA_DIR=`echo ${PRJ_DIR}/prcs_data`

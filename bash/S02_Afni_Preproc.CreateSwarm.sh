@@ -11,7 +11,7 @@ set -e
 
 module load afni
 
-PRJDIR='/data/SFIMJGC/2024_Misha_Pain'   # Project directory: includes Scripts, Freesurfer and PrcsData folders
+PRJDIR='/data/Brain_2025/pain_study_01/'   # Project directory: includes Scripts, Freesurfer and PrcsData folders
 
 PRCSDATA_DIR=`echo ${PRJDIR}/prcs_data`
 ORIGDATA_DIR=`echo ${PRJDIR}/orig_data`
